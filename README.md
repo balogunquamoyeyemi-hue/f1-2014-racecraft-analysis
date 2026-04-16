@@ -1,6 +1,7 @@
 # Formula 1 2024: Racecraft, Dominance & Driver Performance Analysis 
 
 **OVERVIEW**
+
   This Project presents an in-depth analysis of the 2014 Formula 1 season, focusing on driver racecraft, performance consistency, and competitive dominance.
   The dashboard goes beyond basic race result to highlight position gains, win efficiency, and reliability trends across drivers and teams.
 
